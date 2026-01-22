@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey there
 
-<!--
-**Lukaswhy/Lukaswhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Lukas**, a beginner scripter working mainly with **Python** and **JavaScript**.
 
-Here are some ideas to get you started:
+I create scripts **for Windows (Windows 11)**, but with a **Linux-like style** — clean, minimal, and simple. I started scripting because I don’t like how many Windows apps look, so I prefer building my own tools that feel closer to Linux apps in terms of design and usability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like the idea of Linux a lot, but since it’s not great for gaming, Windows is my main OS. My scripts run on Windows, but the design mindset is inspired by Linux.
+
+---
+
+## Tools & Tech
+
+* Python
+* JavaScript
+* Windows 11
+
+---
+
+## What I Build
+
+* Custom scripts for Windows
+* Tools with clean, minimal, Linux-inspired design
+* Small projects made for learning and experimentation
+
+---
+
+## A Bit About Me
+
+* Beginner scripter, always learning
+* Gamer, so Windows matters
+* I like building things that are simple, useful, and easy to understand
+
+---
+
+Learning by doing, one script at a time
